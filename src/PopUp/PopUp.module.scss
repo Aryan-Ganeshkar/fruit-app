@@ -1,0 +1,43 @@
+.fruit-from{
+            display: flex;
+            flex-direction: column;
+            height: 270px;
+            width: 100%;
+            justify-content: space-around;
+}
+
+.fruit-dialog{
+
+            overflow: hidden;
+            background-color: violet;
+            border-radius: 10px;
+            border: none;
+            
+}
+
+.fruit-control{
+            display: flex;
+            flex-direction: column;
+
+
+      label{
+        color: purple;
+        margin: 6px 0;
+        
+      }      
+            
+      input{
+        outline: none;
+        margin: 6px 0;
+      }      
+
+}
+
+.error-text{
+    color:blue
+}
+
+.min-length{
+  text-align: right;
+  font-size: 9px;
+}

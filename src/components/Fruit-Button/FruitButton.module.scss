@@ -1,0 +1,31 @@
+.button-class{
+
+    width: 132px;
+    height: 60px;
+    padding: 10px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(217, 0, 255);
+    text-decoration:none ;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    margin: 10%;
+    margin-left: 20%;
+
+}
+.button-class:hover{
+    background-color: rgb(0, 183, 255);
+}
+.red{
+    background-color:red
+}
+.yellow {
+    background-color:yellow
+}
+.orange {
+    background-color:orange
+}
+.black {
+    background-color:white
+}
